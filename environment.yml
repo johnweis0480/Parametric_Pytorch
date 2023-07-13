@@ -1,0 +1,18 @@
+name: ParametricPytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - discretize
+  - geoana
+  - jupyter
+  - matplotlib
+  - mkl
+  - numpy
+  - pydiso
+  - pymatsolver
+  - python=3.10
+  - scipy
+  - torch
+  - pip:
+    - git+hhttps://github.com/johnweis0480/simpeg_magpde.git@ParametricPytorch
