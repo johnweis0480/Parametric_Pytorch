@@ -15,4 +15,4 @@ dependencies:
   - scipy
   - torch
   - pip:
-    - git+hhttps://github.com/johnweis0480/simpeg_magpde.git@ParametricPytorch
+    - git+https://github.com/johnweis0480/simpeg_magpde.git@ParametricPytorch
